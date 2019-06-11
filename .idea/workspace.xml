@@ -1,7 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2cf583e-edfe-40d0-b72d-adc0210f898c" name="Default Changelist" comment="" />
+    <list default="true" id="c2cf583e-edfe-40d0-b72d-adc0210f898c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Warsztaty_2/coderslab/warsztat2/zadanie1/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Warsztaty_2/coderslab/warsztat2/zadanie1/ConnectionUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Warsztaty_2/coderslab/warsztat2/zadanie1/Excercise.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Warsztaty_2/coderslab/warsztat2/zadanie1/ExcerciseDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Warsztaty_2/coderslab/warsztat2/zadanie1/Group.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Warsztaty_2/coderslab/warsztat2/zadanie1/GroupDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Warsztaty_2/coderslab/warsztat2/zadanie1/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Warsztaty_2/coderslab/warsztat2/zadanie1/SolutionDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Warsztaty_2/coderslab/warsztat2/zadanie1/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Warsztaty_2/coderslab/warsztat2/zadanie1/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Warsztaty_2/coderslab/warsztat2/zadanie1/UserGroup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Warsztaty_2/coderslab/warsztat2/zadanie1/UserGroupDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Warsztaty_2/coderslab/warsztat2/zadanie2/ExcercisesManagement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Warsztaty_2/coderslab/warsztat2/zadanie2/GroupManagement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Warsztaty_2/coderslab/warsztat2/zadanie2/UserManagement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Warsztaty_2/coderslab/warsztat2/zadanie3/ExcerciseAssignment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Warsztaty_2/coderslab/warsztat2/zadanie4/mySolutions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coderslab/warsztat2/dodatki/Comment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coderslab/warsztat2/dodatki/CommentDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coderslab/warsztat2/dodatki/CommentsManagement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coderslab/warsztat2/zadanie1/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie1/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coderslab/warsztat2/zadanie1/ConnectionUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie1/ConnectionUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coderslab/warsztat2/zadanie1/Excercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie1/Excercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coderslab/warsztat2/zadanie1/ExcerciseDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie1/ExcerciseDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coderslab/warsztat2/zadanie1/Group.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie1/Group.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coderslab/warsztat2/zadanie1/GroupDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie1/GroupDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coderslab/warsztat2/zadanie1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie1/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coderslab/warsztat2/zadanie1/SolutionDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie1/SolutionDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coderslab/warsztat2/zadanie1/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie1/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coderslab/warsztat2/zadanie1/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie1/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coderslab/warsztat2/zadanie1/UserGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie1/UserGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coderslab/warsztat2/zadanie1/UserGroupDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie1/UserGroupDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coderslab/warsztat2/zadanie2/ExcercisesManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie2/ExcercisesManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coderslab/warsztat2/zadanie2/GroupManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie2/GroupManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coderslab/warsztat2/zadanie2/UserManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie2/UserManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coderslab/warsztat2/zadanie3/ExcerciseAssignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie3/ExcerciseAssignment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coderslab/warsztat2/zadanie4/mySolutions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie4/MySolutions.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,10 +52,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/coderslab/warsztat2/zadanie1/SolutionDao.java">
+        <entry file="file://$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie1/SolutionDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="126" lean-forward="true" selection-start-line="126" selection-end-line="126" />
+            <state relative-caret-position="510">
+              <caret line="35" column="68" selection-start-line="35" selection-start-column="68" selection-end-line="35" selection-end-column="68" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie1/ConnectionUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -24,70 +76,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/coderslab/warsztat2/dodatki/Comment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" lean-forward="true" selection-end-line="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/coderslab/warsztat2/dodatki/CommentDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="38" column="46" lean-forward="true" selection-start-column="2" selection-end-line="132" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/coderslab/warsztat2/dodatki/CommentsManagement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="29" column="45" lean-forward="true" selection-start-column="2" selection-end-line="97" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/coderslab/warsztat2/zadanie4/mySolutions.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/coderslab/warsztat2/zadanie2/ExcercisesManagement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="32" column="78" lean-forward="true" selection-start-line="32" selection-start-column="78" selection-end-line="32" selection-end-column="78" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/coderslab/warsztat2/zadanie1/UserDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-243">
-              <caret line="49" column="60" lean-forward="true" selection-start-line="49" selection-start-column="60" selection-end-line="49" selection-end-column="60" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/coderslab/warsztat2/zadanie1/User.java">
+        <entry file="file://$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie1/User.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
               <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
@@ -116,7 +105,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/coderslab/warsztat2/zadanie1/UserGroupDao.java">
+        <entry file="file://$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie1/UserGroupDao.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
               <caret line="14" selection-start-line="14" selection-end-line="14" />
@@ -124,11 +113,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/coderslab/warsztat2/zadanie2/GroupManagement.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie1/UserDao.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="20" column="59" selection-start-line="17" selection-start-column="12" selection-end-line="20" selection-end-column="59" />
+              <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie2/ExcercisesManagement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="86" lean-forward="true" selection-start-line="29" selection-start-column="86" selection-end-line="29" selection-end-column="86" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie4/MySolutions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="563">
+              <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -161,6 +174,10 @@
       <find>user1</find>
       <find>comment_id</find>
       <find>solution</find>
+      <find>Set user</find>
+      <find>userDao.f</find>
+      <find>date</find>
+      <find>scanner</find>
     </findStrings>
     <replaceStrings>
       <replace>exercise</replace>
@@ -169,17 +186,18 @@
       <replace>comment</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/coderslab/warsztat2/ConnectionUril.java" />
         <option value="$PROJECT_DIR$/src/coderslab/warsztat2/zadanie1/ConnectionUril.java" />
-        <option value="$PROJECT_DIR$/src/coderslab/warsztat2/zadanie1/ConnectionUtil.java" />
         <option value="$PROJECT_DIR$/src/coderslab/warsztat2/zadanie1/User.java" />
         <option value="$PROJECT_DIR$/src/coderslab/warsztat2/zadanie1/Group.java" />
         <option value="$PROJECT_DIR$/src/coderslab/warsztat2/zadanie1/Excercise.java" />
         <option value="$PROJECT_DIR$/src/coderslab/warsztat2/zadanie2/Main.java" />
-        <option value="$PROJECT_DIR$/src/coderslab/warsztat2/zadanie1/UserDao.java" />
         <option value="$PROJECT_DIR$/src/coderslab/warsztat2/zadanie1/GroupDao.java" />
         <option value="$PROJECT_DIR$/src/coderslab/warsztat2/zadanie4/test.java" />
         <option value="$PROJECT_DIR$/src/coderslab/warsztat2/zadanie4/addSolutions.java" />
@@ -187,7 +205,6 @@
         <option value="$PROJECT_DIR$/src/coderslab/warsztat2/zadanie2/ExcercisesManagement.java" />
         <option value="$PROJECT_DIR$/src/coderslab/warsztat2/zadanie2/GroupManagement.java" />
         <option value="$PROJECT_DIR$/src/coderslab/warsztat2/zadanie3/ExcerciseAssignment.java" />
-        <option value="$PROJECT_DIR$/src/coderslab/warsztat2/zadanie2/UserManagement.java" />
         <option value="$PROJECT_DIR$/src/coderslab/warsztat2/dodatki/UserGroupMatch.java" />
         <option value="$PROJECT_DIR$/src/coderslab/warsztat2/zadanie1/UserGroup.java" />
         <option value="$PROJECT_DIR$/src/coderslab/warsztat2/zadanie1/ExcerciseDao.java" />
@@ -200,22 +217,32 @@
         <option value="$PROJECT_DIR$/src/coderslab/warsztat2/dodatki/CommentDao.java" />
         <option value="$PROJECT_DIR$/src/coderslab/warsztat2/dodatki/CommentsManagement.java" />
         <option value="$PROJECT_DIR$/src/coderslab/warsztat2/zadanie1/UserGroupDao.java" />
+        <option value="$PROJECT_DIR$/src/coderslab/warsztat2/zadanie2/UserManagement.java" />
+        <option value="$PROJECT_DIR$/src/coderslab/warsztat2/zadanie1/UserDao.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/coderslab/warsztat2/zadanie1/ConnectionUtil.java" />
+        <option value="$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie1/App.java" />
+        <option value="$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie1/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie2/ExcercisesManagement.java" />
+        <option value="$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie2/UserManagement.java" />
+        <option value="$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie4/MySolutions.java" />
+        <option value="$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie1/ConnectionUtil.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="892" />
-    <option name="y" value="80" />
-    <option name="width" value="837" />
+    <option name="x" value="293" />
+    <option name="y" value="53" />
+    <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -232,18 +259,43 @@
               <item name="Warsztaty_2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Warsztaty_2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Warsztaty_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Warsztaty_2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pl" type="462c0819:PsiDirectoryNode" />
+              <item name="coderslab" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Warsztaty_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Warsztaty_2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pl" type="462c0819:PsiDirectoryNode" />
+              <item name="coderslab" type="462c0819:PsiDirectoryNode" />
               <item name="warsztat2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Warsztaty_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Warsztaty_2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pl" type="462c0819:PsiDirectoryNode" />
+              <item name="coderslab" type="462c0819:PsiDirectoryNode" />
+              <item name="warsztat2" type="462c0819:PsiDirectoryNode" />
+              <item name="zadanie4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558377360965" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560283570093" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../libraries/jbcrypt-0.4.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -275,11 +327,11 @@
   </component>
   <component name="RunManager" selected="Application.UserManagement">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coderslab.warsztat2.zadanie1.App" />
+      <option name="MAIN_CLASS_NAME" value="pl.coderslab.warsztat2.zadanie1.App" />
       <module name="Warsztaty_2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="coderslab.warsztat2.zadanie1.*" />
+          <option name="PATTERN" value="pl.coderslab.warsztat2.zadanie1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -288,11 +340,11 @@
       </method>
     </configuration>
     <configuration name="ExcerciseAssignment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coderslab.warsztat2.zadanie3.ExcerciseAssignment" />
+      <option name="MAIN_CLASS_NAME" value="pl.coderslab.warsztat2.zadanie3.ExcerciseAssignment" />
       <module name="Warsztaty_2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="coderslab.warsztat2.zadanie3.*" />
+          <option name="PATTERN" value="pl.coderslab.warsztat2.zadanie3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -301,11 +353,11 @@
       </method>
     </configuration>
     <configuration name="ExcercisesManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coderslab.warsztat2.zadanie2.ExcercisesManagement" />
+      <option name="MAIN_CLASS_NAME" value="pl.coderslab.warsztat2.zadanie2.ExcercisesManagement" />
       <module name="Warsztaty_2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="coderslab.warsztat2.zadanie2.*" />
+          <option name="PATTERN" value="pl.coderslab.warsztat2.zadanie2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -314,11 +366,25 @@
       </method>
     </configuration>
     <configuration name="GroupManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coderslab.warsztat2.zadanie2.GroupManagement" />
+      <option name="MAIN_CLASS_NAME" value="pl.coderslab.warsztat2.zadanie2.GroupManagement" />
       <module name="Warsztaty_2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="coderslab.warsztat2.zadanie2.*" />
+          <option name="PATTERN" value="pl.coderslab.warsztat2.zadanie2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MySolutions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.coderslab.warsztat2.zadanie4.MySolutions" />
+      <module name="Warsztaty_2" />
+      <option name="PROGRAM_PARAMETERS" value="1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.coderslab.warsztat2.zadanie4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -327,25 +393,11 @@
       </method>
     </configuration>
     <configuration name="UserManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coderslab.warsztat2.zadanie2.UserManagement" />
+      <option name="MAIN_CLASS_NAME" value="pl.coderslab.warsztat2.zadanie2.UserManagement" />
       <module name="Warsztaty_2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="coderslab.warsztat2.zadanie2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="mySolutions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coderslab.warsztat2.zadanie4.mySolutions" />
-      <module name="Warsztaty_2" />
-      <option name="PROGRAM_PARAMETERS" value="1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="coderslab.warsztat2.zadanie4.*" />
+          <option name="PATTERN" value="pl.coderslab.warsztat2.zadanie2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -354,7 +406,7 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.mySolutions" />
+      <item itemvalue="Application.MySolutions" />
       <item itemvalue="Application.ExcercisesManagement" />
       <item itemvalue="Application.App" />
       <item itemvalue="Application.UserManagement" />
@@ -394,18 +446,27 @@
       <workItem from="1557772555245" duration="11833000" />
       <workItem from="1557949843422" duration="2514000" />
       <workItem from="1558089535602" duration="11158000" />
-      <workItem from="1558121989052" duration="5479000" />
+      <workItem from="1558121989052" duration="5531000" />
+      <workItem from="1558641041336" duration="9331000" />
+      <workItem from="1558764964130" duration="668000" />
+      <workItem from="1558788553045" duration="434000" />
+      <workItem from="1558789636964" duration="1889000" />
+      <workItem from="1559241917349" duration="561000" />
+      <workItem from="1559302969839" duration="598000" />
+      <workItem from="1559381045182" duration="597000" />
+      <workItem from="1559630229225" duration="547000" />
+      <workItem from="1560279742048" duration="3634000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114773000" />
+    <option name="totallyTimeSpent" value="133084000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2899834" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3220808" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -413,8 +474,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3297414" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3297414" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3297414" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33045357" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -424,7 +485,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3297414" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32937366" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Maven" order="2" />
@@ -452,24 +513,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/coderslab/warsztat2/zadanie1/ConnectionUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coderslab/warsztat2/zadanie1/Group.java">
+    <entry file="file://$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie1/Group.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/coderslab/warsztat2/zadanie1/GroupDao.java">
+    <entry file="file://$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie1/GroupDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="284">
           <caret line="82" selection-start-line="82" selection-end-line="82" />
@@ -480,14 +531,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/coderslab/warsztat2/zadanie4/test.java" />
-    <entry file="file://$PROJECT_DIR$/src/coderslab/warsztat2/zadanie1/Excercise.java">
+    <entry file="file://$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie1/Excercise.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/coderslab/warsztat2/zadanie1/UserGroup.java">
+    <entry file="file://$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie1/UserGroup.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
@@ -497,7 +548,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/coderslab/warsztat2/zadanie3/ExcerciseAssignment.java">
+    <entry file="file://$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie3/ExcerciseAssignment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="29" column="85" selection-start-line="29" selection-start-column="85" selection-end-line="29" selection-end-column="85" />
@@ -508,17 +559,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/coderslab/warsztat2/dodatki/UserGroupMatch.java" />
-    <entry file="file://$PROJECT_DIR$/src/coderslab/warsztat2/zadanie2/UserManagement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="24" column="60" selection-start-line="24" selection-start-column="60" selection-end-line="24" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coderslab/warsztat2/zadanie1/ExcerciseDao.java">
+    <entry file="file://$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie1/ExcerciseDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
@@ -528,63 +569,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/coderslab/warsztat2/zadanie1/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="57" column="20" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/coderslab/warsztat2/dodatki/ExcercisesManagement.java" />
-    <entry file="file://$PROJECT_DIR$/src/coderslab/warsztat2/zadanie1/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie1/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/coderslab/warsztat2/zadanie1/SolutionDao.java">
+    <entry file="file://$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie2/GroupManagement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="126" lean-forward="true" selection-start-line="126" selection-end-line="126" />
+        <state relative-caret-position="240">
+          <caret line="20" column="59" selection-start-line="17" selection-start-column="12" selection-end-line="20" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/coderslab/warsztat2/dodatki/Comment.java">
+    <entry file="file://$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie1/SolutionDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-end-line="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coderslab/warsztat2/dodatki/CommentDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="38" column="46" lean-forward="true" selection-start-column="2" selection-end-line="132" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coderslab/warsztat2/dodatki/CommentsManagement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="29" column="45" lean-forward="true" selection-start-column="2" selection-end-line="97" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coderslab/warsztat2/zadanie4/mySolutions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
+        <state relative-caret-position="510">
+          <caret line="35" column="68" selection-start-line="35" selection-start-column="68" selection-end-line="35" selection-end-column="68" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/coderslab/warsztat2/zadanie1/User.java">
+    <entry file="file://$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie1/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
@@ -611,37 +624,89 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/coderslab/warsztat2/zadanie2/ExcercisesManagement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="32" column="78" lean-forward="true" selection-start-line="32" selection-start-column="78" selection-end-line="32" selection-end-column="78" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coderslab/warsztat2/zadanie1/UserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-243">
-          <caret line="49" column="60" lean-forward="true" selection-start-line="49" selection-start-column="60" selection-end-line="49" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coderslab/warsztat2/zadanie1/UserGroupDao.java">
+    <entry file="file://$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie1/UserGroupDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/coderslab/warsztat2/zadanie2/GroupManagement.java">
+    <entry file="file://$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie1/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="57" column="20" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="869">
+          <caret line="166" column="5" selection-start-line="166" selection-start-column="5" selection-end-line="166" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie1/UserDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="20" column="59" selection-start-line="17" selection-start-column="12" selection-end-line="20" selection-end-column="59" />
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie2/UserManagement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-100">
+          <caret line="34" column="51" lean-forward="true" selection-start-line="34" selection-start-column="51" selection-end-line="34" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie2/ExcercisesManagement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="86" lean-forward="true" selection-start-line="29" selection-start-column="86" selection-end-line="29" selection-end-column="86" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie4/MySolutions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/coderslab/warsztat2/dodatki/Comment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/coderslab/warsztat2/dodatki/CommentDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="46" column="57" selection-start-line="46" selection-start-column="57" selection-end-line="46" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/coderslab/warsztat2/dodatki/CommentsManagement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="58" lean-forward="true" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/coderslab/warsztat2/zadanie1/ConnectionUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
