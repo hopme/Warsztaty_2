@@ -38,7 +38,6 @@ public class ExcercisesManagement {
                         editExcercise(excerciseId);
                     } else {
                         deleteExcercise(excerciseId);
-
                     }
                 } else if (action.equals("quit")) {
                     System.out.println("Closing program...");
